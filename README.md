@@ -1,4 +1,4 @@
-# Awesome Apple Store Data Analysis 🍏📊
+# Apple Store Data Analysis 🍏📊
 
 **Welcome to the Awesome Apple Store Data Analysis project!** 🚀 This data-driven journey takes you into the vibrant world of Apple Store apps, where we dive deep into intriguing datasets from [Kaggle.com](http://kaggle.com/). Our datasets, `applestore.csv` and `applestore_description.csv`, unveil fascinating insights into app names, sizes, user ratings, language support, types, and more! What's even cooler? You can explore this analysis using the online SQL IDE [sqliteonline.com](http://sqliteonline.com/) without any installations! 
 
